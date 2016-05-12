@@ -6,9 +6,9 @@ some Quartz Composer works
 ## Music Visualizer #1
 
 iTunes music visualizer
+(click image to see video)
 
-![Music Visualizer 1](https://cloud.githubusercontent.com/assets/6197292/15224593/51201a78-18b5-11e6-9128-3ea413f67bd6.png)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0qWKQv1TWS4" frameborder="0" allowfullscreen></iframe>
+[![Music Visualizer 1](https://cloud.githubusercontent.com/assets/6197292/15224593/51201a78-18b5-11e6-9128-3ea413f67bd6.png)](https://www.youtube.com/watch?v=0qWKQv1TWS4)
 
 ### How to install
 
@@ -17,9 +17,9 @@ Please put "music_visualizer_#1.qtz" into "~/Library/Compositions/".
 ## Metro Exits
 
 random generated typography
+(click image to see video)
 
-![Metro Exits](https://cloud.githubusercontent.com/assets/6197292/15224713/da98ecee-18b5-11e6-9198-87ce07a7a1fc.png)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/J7KCDzogiEU" frameborder="0" allowfullscreen></iframe>
+[![Metro Exits](https://cloud.githubusercontent.com/assets/6197292/15224713/da98ecee-18b5-11e6-9198-87ce07a7a1fc.png)](https://www.youtube.com/watch?v=J7KCDzogiEU)
 
 ## INFOTILE
 
