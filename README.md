@@ -27,7 +27,7 @@ random generated typography
 
 ![INFOTILE](https://cloud.githubusercontent.com/assets/6197292/15224744/0f8865a6-18b6-11e6-950a-29e8d20c313a.png)
 
-### How to use as screen saver
+## How to use as screen saver
 
 Please put the qtz files into "~/Library/Screen savers/".
 
