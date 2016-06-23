@@ -18,7 +18,8 @@ Please put "music_visualizer_#1.qtz" into "~/Library/Compositions/".
 
 ## 3d typography
 
-[]![3D typography](https://cloud.githubusercontent.com/assets/6197292/16309438/afab57ba-39a3-11e6-9f34-7892eb511b07.png)](https://vimeo.com/168030336)
+[![3D typography](https://cloud.githubusercontent.com/assets/6197292/16309438/afab57ba-39a3-11e6-9f34-7892eb511b07.png)](https://vimeo.com/168030336)
+
 (click the image to watch video)
 
 ## Metro Exits
